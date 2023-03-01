@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">geeve</string>
+    <string name="facebook_app_id">548964277352314</string>
+    <string name="fb_login_protocol_scheme">fb548964277352314</string>
+    <string name="facebook_client_token">14003baa330144fed68a1377ebc9b4ff</string>
+</resources>
